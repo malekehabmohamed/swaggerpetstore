@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MySuite">
+    <listeners>
+        <!-- Add any listeners if needed -->
+    </listeners>
+    <test name="MyTest">
+        <classes>
+            <class name="TestCases.PetApiTest"/>
+        </classes>
+    </test>
+    <parameter name="testng.dtd.http" value="true"/>
+</suite>
