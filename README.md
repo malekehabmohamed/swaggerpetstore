@@ -41,4 +41,3 @@ This repository contains Java test cases for the Swagger Petstore API. The test 
 
 Notes
 The base URL for the Swagger Petstore API is set to https://petstore.swagger.io/v2.
-Adjustments to the test cases may be required based on the Swagger Petstore API documentation.
