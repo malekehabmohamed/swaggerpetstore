@@ -17,7 +17,7 @@ This repository contains Java test cases for the Swagger Petstore API. The test 
    git clone https://github.com/malekehabmohamed/swaggerpetstore
    cd swaggerpetstore
 
-2. To Run the test cases, you can direclt run each cass inside the soultion at path "swaggerpetstore\src\test\java\TestCases":
+2. To Run the test cases, you can directly run each case inside the soultion at path "swaggerpetstore\src\test\java\TestCases":
 
 ## Test Cases
    
